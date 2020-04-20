@@ -73,7 +73,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="registration">Registration</h2>
-<p> Please register for each day separately </p>
+<p> Please register for each day separately: </p>
 <p> <a href="">day 1 (fundamentals of R)</a></p>
 <p> <a href="">day 2 (R for plotting and data analysis)</a></p>
 <hr/>
