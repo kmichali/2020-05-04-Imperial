@@ -73,9 +73,11 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="registration">Registration</h2>
-<p> Please register for each day separately: </p>
-<p> <a href="https://forms.gle/PzNrsBJTPBTSk2Yz6">day 1 (fundamentals of R)</a></p>
-<p> <a href="https://forms.gle/SDGjEVpvZL4cSvro9">day 2 (R for plotting and data analysis)</a></p>
+
+<p> Unfortunately, the workshop is now fully booked.  You can put your name on the waiting lists.</p>
+<p> <a href=" https://forms.gle/3FufN4eiBBuyUYgu8">May 4 (fundamentals of R)</a></p>
+<p> <a href=" https://forms.gle/BQPFgmj9TVz8T2Sd6">May 11 (R for plotting and data analysis)</a></p>
+
 <hr/>
 
 <h2 id="general">General Information</h2>
